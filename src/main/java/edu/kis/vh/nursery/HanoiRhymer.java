@@ -15,3 +15,4 @@ int totalRejected = 0;
 				super.countIn(in);
 	}
 }
+// Skrót pozwala na szybkie przełączanie się między kartami
