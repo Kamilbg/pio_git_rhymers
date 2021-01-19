@@ -1,5 +1,8 @@
 package edu.kis.vh.nursery.list;
 
+/**
+ * Node with value.
+ */
 public class Node {
 
 	public int value;
